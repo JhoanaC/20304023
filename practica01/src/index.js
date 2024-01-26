@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 //cambio
 const app = express();
 const port = 3000;
-//cambio feature/03
 app.use(bodyParser.json());
 
 let tasks = [
