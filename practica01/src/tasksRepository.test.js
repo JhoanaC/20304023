@@ -1,4 +1,5 @@
-const tasksRepository = require("./tasksRepository");
+const tasksRepository = require("./tasksRepository.js");
+
 
 describe("pruebas", ()=>{
 
